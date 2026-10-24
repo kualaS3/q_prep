@@ -1,2 +1,11 @@
-problem,date,pattern,mistake,redo_on
-Add Two Numbers,24 Oct 2026,dummy head + carry,"unguarded null dereference, double pointer advance",
+problem,date,pattern,personal_notes,redo_on
+0001 Two Sum,2025-07-05,hash map,,
+0009 Palindrome Number,2025-07-05,math / reverse half,,
+0013 Roman to Integer,2026-10-10,hash map,,
+0014 Longest Common Prefix,2026-10-11,string scan,,
+2996 Smallest Missing Integer Greater Than Sequential Prefix Sum,2026-10-11,prefix sum + hash set,,
+0020 Valid Parentheses,2026-10-11,stack,,
+0217 Contains Duplicate,2026-10-24,hash set,,
+0219 Contains Duplicate II,2026-10-24,sliding window + set,,
+0021 Merge Two Sorted Lists,2026-10-24,dummy head + two pointers,,
+0002 Add Two Numbers,2026-10-25,dummy head + carry,,
