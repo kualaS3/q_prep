@@ -1,2 +1,2 @@
 problem,date,pattern,mistake,redo_on
-Add Two Numbers,,dummy head + carry,"unguarded null dereference, double pointer advance",
+Add Two Numbers,24 Oct 2026,dummy head + carry,"unguarded null dereference, double pointer advance",
