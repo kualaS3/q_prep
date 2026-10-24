@@ -1,0 +1,2 @@
+problem,date,pattern,mistake,redo_on
+Add Two Numbers,,dummy head + carry,"unguarded null dereference, double pointer advance",
