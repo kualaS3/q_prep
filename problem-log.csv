@@ -1,6 +1,6 @@
-problem,topic,pattern,date_completed,notes,last_redo_date
-0001 Two Sum,Arrays & Hashing,hash map,2025-07-05,,2026-10-25
-0009 Palindrome Number,Other,math / reverse half,2025-07-05,,2026-10-25
+problem,topic,pattern,date_completed,last_redo_date,notes
+0001 Two Sum,Arrays & Hashing,hash map,2025-07-05,2026-10-25,
+0009 Palindrome Number,Other,math / reverse half,2025-07-05,2026-10-25,
 0013 Roman to Integer,Other,hash map,2026-10-10,,
 0014 Longest Common Prefix,Other,string scan,2026-10-11,,
 2996 Smallest Missing Integer Greater Than Sequential Prefix Sum,Arrays & Hashing,prefix sum + hash set,2026-10-11,,
