@@ -1,12 +1,12 @@
-problem,topic,pattern,date_completed,last_redo_date,notes
-0001 Two Sum,Arrays & Hashing,hash map,2025-07-05,2026-10-25,
-0009 Palindrome Number,Other,math / reverse half,2025-07-05,2026-10-25,
-0013 Roman to Integer,Other,hash map,2026-10-10,,
-0014 Longest Common Prefix,Other,string scan,2026-10-11,,
-2996 Smallest Missing Integer Greater Than Sequential Prefix Sum,Arrays & Hashing,prefix sum + hash set,2026-10-11,,
-0020 Valid Parentheses,Stack,stack,2026-10-11,,
-0217 Contains Duplicate,Arrays & Hashing,hash set,2026-10-24,,
-0219 Contains Duplicate II,Sliding Window,sliding window + set,2026-10-24,,
-0021 Merge Two Sorted Lists,Linked List,dummy head + two pointers,2026-10-24,,
-0002 Add Two Numbers,Linked List,dummy head + carry,2026-10-25,,
-0242 Valid Anagram, Arrays & Hashing, hash map, 2026-10-25, 2026-10-26, redo w py
+difficulty,problem,topic,pattern,date_completed,last_redo_date,notes
+Easy,0001 Two Sum,Arrays & Hashing,hash map,2025-07-05,2026-10-25,
+Easy,0009 Palindrome Number,Other,math / reverse half,2025-07-05,2026-10-25,
+Easy,0013 Roman to Integer,Other,hash map,2026-10-10,,
+Easy,0014 Longest Common Prefix,Other,string scan,2026-10-11,,
+Easy,2996 Smallest Missing Integer Greater Than Sequential Prefix Sum,Arrays & Hashing,prefix sum + hash set,2026-10-11,,
+Easy,0020 Valid Parentheses,Stack,stack,2026-10-11,,
+Easy,0217 Contains Duplicate,Arrays & Hashing,hash set,2026-10-24,,
+Easy,0219 Contains Duplicate II,Sliding Window,sliding window + set,2026-10-24,,
+Easy,0021 Merge Two Sorted Lists,Linked List,dummy head + two pointers,2026-10-24,,
+Medium,0002 Add Two Numbers,Linked List,dummy head + carry,2026-10-25,,
+Easy,0242 Valid Anagram,Arrays & Hashing,hash map,2026-10-25,2026-10-26,redo w py
