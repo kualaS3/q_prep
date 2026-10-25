@@ -10,3 +10,4 @@ Easy,0219 Contains Duplicate II,Sliding Window,sliding window + set,2026-10-24,,
 Easy,0021 Merge Two Sorted Lists,Linked List,dummy head + two pointers,2026-10-24,,
 Medium,0002 Add Two Numbers,Linked List,dummy head + carry,2026-10-25,,
 Easy,0242 Valid Anagram,Arrays & Hashing,hash map,2026-10-25,2026-10-26,redo w py
+Medium,0049 Group Anagrams,Arrays & Hashing,hash map (sorted or char-count key),2026-10-26,,
