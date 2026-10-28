@@ -12,4 +12,4 @@ Medium,0002 Add Two Numbers,Linked List,dummy head + carry,2026-10-25,,
 Easy,0242 Valid Anagram,Arrays & Hashing,hash map,2026-10-25,2026-10-26,redo w py
 Medium,0049 Group Anagrams,Arrays & Hashing,hash map (sorted keys),2026-10-26,,
 Medium,0347 Top K Frequent Elements,Array & Hashing,dict + argmax, 2026-10-28,,
-Medium,0692 Top K Frequent Words,Array & Hashing,dict + lambda & neg descending count, 2026-10-28,,
+Medium,0692 Top K Frequent Words,Array & Hashing,dict + lambda & sorted, 2026-10-28,,
