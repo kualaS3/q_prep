@@ -1,3 +1,4 @@
+#Time complexity is O(n^2)
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         high_count = 0
