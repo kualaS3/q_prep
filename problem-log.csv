@@ -30,5 +30,5 @@ Medium,0153 Find Minimum in Rotated Sorted Array,Binary Search,find the drop; co
 Medium,0162 Find Peak Element,Binary Search,read the slope at mid; uphill -> peak right; downhill -> peak at mid or left,2026-11-08,,
 Easy,0226 Invert Binary Tree,Trees,swap left/right at each node recursively,2026-11-09,,
 Easy,0104 Maximum Depth of Binary Tree,Trees,1 + max depth of left and right subtrees,2026-11-09,,
-Medium,0102 Binary Tree Level Order Traversal,Trees,BFS with queue; freeze level size per level,2026-11-09,2026-11-10,recursive  redo
+Medium,0102 Binary Tree Level Order Traversal,Trees,BFS with queue; freeze level size per level,2026-11-09,2026-11-10,recursive dfs redo
 Medium,0098 Validate Binary Search Tree,Trees,allowed range (low/high bounds),2026-11-10,,
