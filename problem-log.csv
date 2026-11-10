@@ -31,5 +31,5 @@ Medium,0162 Find Peak Element,Binary Search,read the slope at mid; uphill -> pea
 Easy,0226 Invert Binary Tree,Trees,swap left/right at each node recursively,2026-11-09,,
 Easy,0104 Maximum Depth of Binary Tree,Trees,1 + max depth of left and right subtrees,2026-11-09,,
 Medium,0102 Binary Tree Level Order Traversal,Trees,BFS with queue; freeze level size per level,2026-11-09,2026-11-10,recursive dfs redo
-Medium,0098 Validate Binary Search Tree,Trees,allowed range (low/high bounds),2026-11-10,,
+Medium,0098 Validate Binary Search Tree,Trees,allowed range (low/high bounds),2026-11-10,2026-11-11,
 Easy,0100 Same Tree,Trees,recursion; compare left-left and right-right,2026-11-10,,
