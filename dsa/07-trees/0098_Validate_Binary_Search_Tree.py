@@ -4,6 +4,9 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
+# a helper function is required to carry information down the recursion.
+# needed memory of the parent when traversing to maintain tree integrity
 class Solution:
     def isValidBST(self, root: TreeNode | None) -> bool:
         return self.check(root, float('inf'), float('-inf'))
