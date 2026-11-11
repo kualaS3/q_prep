@@ -2,7 +2,7 @@ class Solution:
     def search(self, nums: list[int], target: int) -> int:
         # At any midpoint, one side of the array is always still sorted.
         # Find the sorted side, check whether the target lives inside its
-        # range, and search there; otherwise search the other side.
+        # range, and search there. Otherwise search the other side.
         LEFT = 0
         RIGHT = len(nums) - 1
 
