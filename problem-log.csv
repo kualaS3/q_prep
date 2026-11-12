@@ -35,3 +35,4 @@ Medium,0098 Validate Binary Search Tree,Trees,allowed range (low/high bounds),20
 Easy,0100 Same Tree,Trees,recursion; compare left-left and right-right,2026-11-10,,
 Medium,0572 Subtree of Another Tree,Trees,recursion; check if subRoot matches at each node,2026-11-11,,
 Medium,0230 Kth Smallest Element in a BST,Trees,Inorder DFS with counter; kth visited node is the answer,2026-11-13,,
+Medium,0235 Lowest Common Ancestor of a Binary Search Tree,Trees,BST split point; both smaller go left, both bigger go right, else current node,2026-11-13,,
