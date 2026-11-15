@@ -38,3 +38,4 @@ Medium,0230 Kth Smallest Element in a BST,Trees,Inorder DFS with counter; kth vi
 Medium,0235 Lowest Common Ancestor of a Binary Search Tree,Trees,BST split point; both smaller go left, both bigger go right, else current node,2026-11-13,,
 Easy,0703 Kth Largest Element in a Stream,Heap,Size-k min-heap; heap[0] is kth largest,2026-11-15,,
 Easy,1046 Last Stone Weight,Heap,Max-heap via negation; smash two heaviest, push back difference,2026-11-15,,
+Medium,0215 Kth Largest Element in an Array,Heap,Size-k min-heap; heapify first k, heappushpop rest,2026-11-15,,
