@@ -37,3 +37,5 @@ Medium,0572 Subtree of Another Tree,Trees,recursion; check if subRoot matches at
 Medium,0230 Kth Smallest Element in a BST,Trees,Inorder DFS with counter; kth visited node is the answer,2026-11-13,,
 Medium,0235 Lowest Common Ancestor of a Binary Search Tree,Trees,BST split point; both smaller go left, both bigger go right, else current node,2026-11-13,,
 Easy,0703 Kth Largest Element in a Stream,Heap,Size-k min-heap; heap[0] is kth largest,2026-11-15,,
+Medium,0347 Top K Frequent Elements,Heap,Count frequencies; size-k min-heap of (freq, num),2026-11-15,,
+
