@@ -40,3 +40,5 @@ Easy,0703 Kth Largest Element in a Stream,Heap,Size-k min-heap; heap[0] is kth l
 Easy,1046 Last Stone Weight,Heap,Max-heap via negation; smash two heaviest, push back difference,2026-11-15,,
 Medium,0215 Kth Largest Element in an Array,Heap,Size-k min-heap; heapify first k, heappushpop rest,2026-11-15,,
 Medium,0973 K Closest Points to Origin,Heap,Size-k max-heap via negated squared distance; heappushpop,2026-11-16,,
+Medium,0056 Merge Intervals,Intervals,Sort by start; sweep with one merged interval open,2026-11-17,,
+
