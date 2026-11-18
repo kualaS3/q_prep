@@ -42,3 +42,4 @@ Medium,0215 Kth Largest Element in an Array,Heap,Size-k min-heap; heapify first 
 Medium,0973 K Closest Points to Origin,Heap,Size-k max-heap via negated squared distance; heappushpop,2026-11-16,,
 Medium,0056 Merge Intervals,Intervals,Sort by start; sweep with one merged interval open,2026-11-17,,
 
+Medium,0200 Number of Islands,Graphs,DFS flood fill; sink visited land to 0,2026-11-18,,
