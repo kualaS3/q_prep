@@ -43,3 +43,5 @@ Medium,0973 K Closest Points to Origin,Heap,Size-k max-heap via negated squared 
 Medium,0056 Merge Intervals,Intervals,Sort by start; sweep with one merged interval open,2026-11-17,,
 
 Medium,0200 Number of Islands,Graphs,DFS flood fill; sink visited land to 0,2026-11-18,,
+
+Medium,0695 Max Area of Island,Graphs,BFS flood fill with deque; track max area,2026-11-18,,
