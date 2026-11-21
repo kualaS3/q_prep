@@ -47,3 +47,4 @@ Medium,0200 Number of Islands,Graphs,DFS flood fill; sink visited land to 0,2026
 Medium,0695 Max Area of Island,Graphs,BFS flood fill with deque; track max area,2026-11-18,,
 Medium,0133 Clone Graph,Graphs,BFS clone with old-to-new dict; create on discover,2026-11-18,,
 Medium,0994 Rotting Oranges,Graphs,Multi-source BFS by level; fresh count,2026-11-21,,
+Medium,0322 Coin Change,Dynamic Programming,Bottom-up DP; dp[a] = 1 + min(dp[a-c]),2026-11-21,,
